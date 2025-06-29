@@ -10,7 +10,7 @@ There is an additional profile page that simply displays profile information.
 
 -----------------------------------
 
-Backend: A node.js server that routes API calls that primarily deal with displaying book information, and editing checked in and checked out books.
+Backend: A node.js server that routes API calls effectively displaying book information, and editing checked in and checked out books.
 
 -----------------------------------
 
